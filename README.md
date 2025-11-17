@@ -1,14 +1,16 @@
 # devopstraining
 
-This Training will cover below topics
-1. Git
-2. Docker
-3. Shell Commands
-4. Jenkins
-6. Github Workflows
-7. CICD Process
-8. Kubernets/Openshift
-9. Terraform for AWS resource provisioning
+This Training will cover devops core tools.
+
+Topics are, 
+1. Git - 1 class
+2. Docker - 2 classes
+3. Shell Commands - 2 classes
+4. Jenkins and Github Workflows- 4 classes
+5. CICD Process - 4 - classes
+6. Kubernets/Openshift - 4 classes
+7. Terraform for AWS resource provisioning - 4 classes
+8. Sample projects: 4 classes
 
 
 Tools Installation:
