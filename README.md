@@ -13,7 +13,12 @@ Topics are,
 8. Sample projects: 4 classes
 
 
-Tools Installation:
+## Tools Installation:
 
 1. For Windows, Install WSL. refer [WSL Installation](other-docs/tools.md)
+
+# Sample Projects
+1. https://github.com/atozdevopstraining/springboot-k8s
+2. https://github.com/atozdevopstraining/flaskdemoapp
+
 
